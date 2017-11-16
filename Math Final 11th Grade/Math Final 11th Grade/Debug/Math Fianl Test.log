@@ -1,0 +1,20 @@
+﻿  Math_2nd_and_3rd_grade_Learning_Project.cpp
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(81): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(149): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(222): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(291): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(363): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(430): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(501): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(569): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(640): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(711): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(788): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(866): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(940): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(950): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(952): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(1017): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(1019): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(1083): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+math_2nd_and_3rd_grade\Math_2nd_and_3rd_grade_Learning_Project.cpp(1085): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Math_2nd_and_3rd_grade_Learning_Project", "Math_2nd_and_3rd_grade_Learning_Project\Math_2nd_and_3rd_grade_Learning_Project.vcxproj", "{AF891C6D-91C3-42AE-A73A-809F6AEDD74A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF891C6D-91C3-42AE-A73A-809F6AEDD74A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF891C6D-91C3-42AE-A73A-809F6AEDD74A}.Debug|Win32.Build.0 = Debug|Win32
+		{AF891C6D-91C3-42AE-A73A-809F6AEDD74A}.Release|Win32.ActiveCfg = Release|Win32
+		{AF891C6D-91C3-42AE-A73A-809F6AEDD74A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
